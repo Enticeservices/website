@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-light: #F4FCFF;
+  --color-primary: #393663;
+  --color-primary-dark: #030121;
+  --color-secondary: #FF504B;
+  --color-secondary-light: #FF4A45;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.title {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+}
+
+.d {
+  border: 1px solid red !important;
+}
+
+
+.card-bg {
+  background-image: linear-gradient(to bottom, transparent, transparent 50%, rgba(255, 255, 255, 0.5) 70%, rgba(255, 255, 255, 1) 100%);
+}
+
+
+.appear-animation {
+  animation: appear 1s ease-in-out forwards;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+    scale: 1;
+  }
+
+  to {
+    opacity: 1;
+    scale: 1.2;
+  }
+}

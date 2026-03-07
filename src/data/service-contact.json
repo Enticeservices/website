@@ -1,0 +1,496 @@
+{
+    "default": {
+        "banner": {
+            "title": "Contact Us",
+            "subtitle": "Ready to collaborate with experts! Let's go."
+        },
+        "section": {
+            "title": "Tired of shouting into the B2B void?",
+            "description1": "At Entice, we help B2B brands cut through crowded and highly competitive markets where traditional outreach no longer generates attention. Decision-makers are overwhelmed with emails, ads, and sales calls, making generic messaging invisible by default. Our approach focuses on precision-driven engagement that identifies the right accounts, stakeholders, and timing. This ensures conversations are relevant, contextual, and aligned with real business priorities instead of shallow interest or vanity engagement.",
+            "description2": "Rather than executing fragmented campaigns across disconnected channels, we design a structured, insight-led system that connects targeting, messaging, and execution. Every interaction is intentional and supported by data, not guesswork. This reduces wasted effort, prevents internal teams from chasing low-impact activities, and ensures each touchpoint builds logically on the previous one, guiding prospects forward without overwhelm.",
+            "description3": "The outcome is a predictable and scalable growth engine. Outreach efficiency improves, response quality increases, and early-stage interest converts more consistently into qualified opportunities. Sales teams spend less time filtering poor-fit leads and more time closing deals that matter. Over time, this strengthens pipeline health, improves forecasting accuracy, and drives sustainable revenue growth."
+        },
+        "serviceInfo": {
+            "title": "Expert Consultation",
+            "subtitle": "Discover the Difference",
+            "description1": "You work directly with experienced consultants who understand complex B2B sales cycles and multi-stakeholder decision-making environments. This is not surface-level advice or theory. Guidance is shaped by real execution experience, operational constraints, and market realities. Every recommendation considers how it impacts sales teams, marketing workflows, and revenue performance across the entire funnel.",
+            "description2": "All recommendations are grounded in performance data, historical outcomes, and proven frameworks refined through real campaigns. We avoid recycled playbooks and theoretical models. Decisions are informed by what has delivered measurable results in similar markets, ensuring strategies are practical, defensible, and aligned with how buyers actually evaluate solutions.",
+            "description3": "The result is a strategy designed for execution, not presentation. It scales with your business, adapts to changing conditions, and remains directly tied to improvements in pipeline quality, conversion efficiency, and long-term revenue growth."
+        }
+    },
+    "content-syndication": {
+        "banner": {
+            "title": "Content Syndication",
+            "subtitle": "Distribute content to reach high-intent decision-makers."
+        },
+        "section": {
+            "title": "Want qualified demand instead of empty traffic?",
+            "description1": "Our content syndication programs distribute your gated assets to targeted, high-intent B2B audiences actively researching solutions. Instead of relying on passive discovery, your content is placed in front of verified decision-makers across trusted industry platforms. This ensures visibility among the right accounts while maintaining strict control over audience quality, relevance, and intent alignment.",
+            "description2": "Every campaign is built around your ideal customer profile, buying stage, and content objective. We avoid broad distribution that generates low-quality leads and instead focus on precision targeting by role, industry, company size, and intent signals. This approach ensures that engagement translates into meaningful pipeline contribution rather than inflated lead counts.",
+            "description3": "The result is a consistent flow of sales-ready leads who have already engaged with your content. Sales teams receive prospects who understand the problem space, recognize your value, and are prepared for informed conversations. This shortens sales cycles, improves conversion rates, and strengthens overall pipeline efficiency."
+        },
+        "serviceInfo": {
+            "title": "Targeted Distribution",
+            "subtitle": "Quality-Controlled Lead Delivery",
+            "description1": "Content is distributed only through vetted, high-quality publisher networks trusted by B2B professionals. This ensures your brand appears in credible environments and reaches decision-makers who are actively consuming relevant industry content.",
+            "description2": "Every lead is filtered using qualification criteria such as job role, company profile, and engagement thresholds. This prevents low-intent downloads and ensures sales teams receive leads that match real buying potential.",
+            "description3": "Detailed reporting provides visibility into content performance, audience engagement, and pipeline impact. This allows continuous optimization and ensures content syndication contributes directly to revenue goals."
+        }
+    },
+    "bant-telemarketing": {
+        "banner": {
+            "title": "BANT Telemarketing",
+            "subtitle": "Qualify prospects with precision and drive sales."
+        },
+        "section": {
+            "title": "Need to streamline your sales process?",
+            "description1": "Our BANT telemarketing framework applies strict qualification criteria before prospects enter your pipeline. Each conversation validates budget ownership, decision-making authority, genuine business need, and realistic purchase timelines. This prevents low-intent or poorly aligned prospects from progressing further than they should and protects sales teams from wasted follow-ups.",
+            "description2": "Unqualified leads drain sales time, energy, and morale. By filtering them out early, we ensure your team focuses only on prospects with real revenue potential. Conversations become more productive, meetings improve in quality, and sales resources are used efficiently instead of being spread across poor-fit opportunities.",
+            "description3": "With stronger qualification upfront, sales cycles shorten and close rates improve. Forecasting becomes more reliable because pipeline stages reflect genuine buying readiness. Leadership gains clearer visibility into revenue potential, and sales teams gain confidence in deal progression."
+        },
+        "serviceInfo": {
+            "title": "Budget & Authority",
+            "subtitle": "Reach The Right People",
+            "description1": "We confirm that prospects have approved or allocated budgets early in the sales process. This reduces late-stage deal failures caused by missing approvals, financial misalignment, or unrealistic expectations.",
+            "description2": "Our team navigates complex organizational structures to identify and engage true decision-makers rather than influencers or gatekeepers. This ensures sales conversations happen with people who can actually approve and move deals forward.",
+            "description3": "By removing friction early, deals move faster, maintain momentum, and close more predictably with fewer surprises late in the cycle."
+        }
+    },
+    "email-nurture": {
+        "banner": {
+            "title": "Email Nurture",
+            "subtitle": "Build meaningful relationships with your leads."
+        },
+        "section": {
+            "title": "Want to turn prospects into loyal customers?",
+            "description1": "We design structured email nurture programs that support long and complex B2B buying cycles. Instead of forcing immediate conversions, messaging educates prospects over time and keeps your brand relevant throughout their decision journey. Each stage builds understanding, credibility, and alignment with real business challenges.",
+            "description2": "Each email is aligned to specific buyer concerns, objections, and intent signals. Messaging feels helpful and contextual rather than promotional or repetitive. Prospects engage because the content delivers value, not because they are being pressured into conversations prematurely.",
+            "description3": "Over time, this approach builds trust and familiarity. Leads become better informed and more confident, making sales conversations smoother, better timed, and more productive when outreach eventually occurs."
+        },
+        "serviceInfo": {
+            "title": "Strategic Storytelling",
+            "subtitle": "Automated Workflows",
+            "description1": "Messaging focuses on real operational challenges, industry context, and practical insights rather than generic marketing copy that fails to differentiate.",
+            "description2": "Behavior-driven automation ensures follow-ups occur at moments of peak interest rather than fixed schedules that ignore buyer intent.",
+            "description3": "This improves engagement quality, response consistency, and downstream conversion performance."
+        }
+    },
+    "programmatic-nurture": {
+        "banner": {
+            "title": "Programmatic Nurture",
+            "subtitle": "Automated touchpoints for effective engagement."
+        },
+        "section": {
+            "title": "Looking to optimize your buyer's journey?",
+            "description1": "We use behavioral data and intent signals to understand where prospects truly are in their buying journey. Messaging aligns with actual engagement patterns rather than assumptions or rigid buyer stages.",
+            "description2": "Campaigns dynamically adapt based on prospect behavior instead of relying on static sequences. Content evolves as interest deepens and buying intent becomes clearer.",
+            "description3": "This maintains relevance at every touchpoint, reduces wasted impressions, and improves overall engagement efficiency."
+        },
+        "serviceInfo": {
+            "title": "Omnichannel Engagement",
+            "subtitle": "Dynamic Content",
+            "description1": "Prospects experience consistent messaging across channels without repetition, fatigue, or conflicting narratives.",
+            "description2": "Content automatically adjusts based on actions taken, engagement depth, and buying signals.",
+            "description3": "You gain clear visibility into which touchpoints actually drive conversions."
+        }
+    },
+    "full-funnel-content": {
+        "banner": {
+            "title": "Full-Funnel Content",
+            "subtitle": "Content that converts at every stage."
+        },
+        "section": {
+            "title": "Ready to build unparalleled brand authority?",
+            "description1": "We create content that addresses real decision-maker concerns across awareness, consideration, and decision stages. Messaging evolves with buyer intent and supports progression through the funnel.",
+            "description2": "Each asset is mapped to specific funnel stages and tied to measurable business outcomes rather than vanity engagement metrics.",
+            "description3": "This builds trust, strengthens engagement, and accelerates deal velocity across the sales pipeline."
+        },
+        "serviceInfo": {
+            "title": "Top-to-Bottom Coverage",
+            "subtitle": "Educate and Convert",
+            "description1": "Early-stage content establishes credibility, thought leadership, and category authority with relevant audiences.",
+            "description2": "Mid and late-stage content addresses objections, reduces perceived risk, and reinforces value using proof points, outcomes, and real-world context.",
+            "description3": "Sales teams gain assets that actively support closing conversations and internal buyer alignment."
+        }
+    },
+    "display-advertising": {
+        "banner": {
+            "title": "Display Advertising",
+            "subtitle": "Targeted ads for Maximum ROI."
+        },
+        "section": {
+            "title": "Want to reach your ideal audience instantly?",
+            "description1": "We focus on account-level targeting instead of broad, low-intent reach. Ads are shown only to companies that closely match your ideal customer profile.",
+            "description2": "Campaigns are optimized for pipeline and revenue impact rather than clicks, impressions, or surface-level engagement metrics.",
+            "description3": "Every dollar spent is tied to measurable business outcomes and conversion performance."
+        },
+        "serviceInfo": {
+            "title": "Precision Targeting",
+            "subtitle": "Creative Optimization",
+            "description1": "Advanced segmentation ensures visibility among high-intent accounts that matter most to revenue.",
+            "description2": "Creative is continuously tested, refined, and optimized based on performance data.",
+            "description3": "This reduces wasted spend and improves overall advertising efficiency."
+        }
+    },
+    "business-process-outsourcing": {
+        "banner": {
+            "title": "BPO Solutions",
+            "subtitle": "Streamline Your Back-Office Operations"
+        },
+        "section": {
+            "title": "Ready to scale your business processes?",
+            "description1": "We manage operational workloads with consistency, accountability, and clearly defined processes to ensure reliability and quality.",
+            "description2": "Our teams integrate directly into your workflows without disrupting internal operations or team dynamics.",
+            "description3": "This frees internal teams to focus on strategic growth initiatives and core business priorities."
+        },
+        "serviceInfo": {
+            "title": "Cost Efficiency",
+            "subtitle": "Scalable Teams & 24/7 Support",
+            "description1": "Reduce operational costs without sacrificing quality, accuracy, or performance standards.",
+            "description2": "Scale teams up or down quickly based on demand and business needs.",
+            "description3": "Maintain continuous operational coverage across time zones."
+        }
+    },
+    "lead-generation-and-qualification": {
+        "banner": {
+            "title": "Lead Generation",
+            "subtitle": "Fuel Your Sales Pipeline with High-Quality Leads"
+        },
+        "section": {
+            "title": "Looking to accelerate your revenue growth?",
+            "description1": "We identify prospects that closely match your ideal customer profile using data-led targeting and research-driven methods.",
+            "description2": "Every lead is qualified before reaching sales, reducing noise, inefficiency, and wasted follow-up effort.",
+            "description3": "This improves win rates, pipeline confidence, and overall sales efficiency."
+        },
+        "serviceInfo": {
+            "title": "Ideal Customer Profiling",
+            "subtitle": "Multi-Channel Outreach",
+            "description1": "Clear ICP definition drives accurate targeting, messaging alignment, and outreach relevance.",
+            "description2": "Multi-channel outreach improves response rates and engagement consistency.",
+            "description3": "Sales cycles shorten as qualification quality improves."
+        }
+    },
+    "market-research-and-analysis": {
+        "banner": {
+            "title": "Market Research",
+            "subtitle": "Data-Driven Insights for Strategic Decisions"
+        },
+        "section": {
+            "title": "Need actionable market intelligence?",
+            "description1": "We analyze customers, competitors, and demand patterns to uncover insights that directly support strategic decisions.",
+            "description2": "Findings are delivered in clear, decision-ready formats designed for leadership and planning teams.",
+            "description3": "This supports confident planning, prioritization, and long-term investment decisions."
+        },
+        "serviceInfo": {
+            "title": "Competitor Analysis",
+            "subtitle": "Trend Forecasting",
+            "description1": "Understand competitive positioning, strengths, weaknesses, and market dynamics.",
+            "description2": "Identify emerging trends early before they impact performance or positioning.",
+            "description3": "Stay ahead of market shifts with informed, proactive strategy."
+        }
+    },
+    "content-marketing": {
+        "banner": {
+            "title": "Content Marketing",
+            "subtitle": "Engaging Narratives that Build Authority"
+        },
+        "section": {
+            "title": "Want to elevate your brand presence?",
+            "description1": "We create content that attracts, educates, and builds credibility with B2B buyers across channels.",
+            "description2": "Distribution ensures consistent visibility among high-intent audiences where decisions are formed.",
+            "description3": "Authority is built steadily through relevance, consistency, and value."
+        },
+        "serviceInfo": {
+            "title": "SEO Strategy",
+            "subtitle": "Editorial Planning & Digital PR",
+            "description1": "Our SEO strategy focuses on building long-term, compounding visibility by targeting high-intent keywords, improving technical foundations, and strengthening topical relevance. This reduces reliance on paid channels and ensures decision-makers consistently discover your brand while actively researching solutions.",
+            "description2": "Editorial planning aligns content creation with buyer intent, funnel stages, and business objectives. Topics are selected strategically to support pipeline growth, authority building, and demand generation instead of random publishing that produces no measurable impact.",
+            "description3": "Digital PR amplifies reach through credible, high-authority publications that decision-makers trust. This strengthens brand perception, builds authority, and supports SEO through quality backlinks that reinforce long-term visibility."
+        }
+    },
+    "bpo-intelligent-lead-generation": {
+        "banner": {
+            "title": "Intelligent Lead Generation",
+            "subtitle": "Accelerate revenue with high-intent prospect insights."
+        },
+        "section": {
+            "title": "Need high-potential prospects for your pipeline?",
+            "description1": "We accelerate your revenue growth by identifying and engaging only the most qualified leads from a verified database of millions. Instead of spending time on cold outreach that yields low conversion rates, your sales team receives prospects that have already demonstrated explicit interest and alignment with your ideal customer profile.",
+            "description2": "This targeted approach utilizes multi-channel strategies to reach decision-makers seamlessly across platforms, ensuring that every piece of messaging resonates. By focusing on intent data and precise behavioral triggers, we ensure that every interaction is timely and relevant, minimizing friction and preventing wasted effort on poor-fit accounts.",
+            "description3": "The result is a dramatically shortened sales cycle from the first touch to the final conversion. Pipeline health improves consistently, forecasting becomes highly accurate, and sales representatives remain focused exclusively on closing deals rather than endlessly prospecting and filtering through unqualified noise."
+        },
+        "serviceInfo": {
+            "title": "Targeted Lead Qualification",
+            "subtitle": "Data-Driven Prospecting",
+            "description1": "We rely on a massive repository of verified business profiles to hone in on your exact target audience. Our proprietary technology filters out mismatches instantly, ensuring that only decision-makers with real buying authority and allocated budgets make it into your active sales funnel.",
+            "description2": "Multi-channel engagement connects with prospects through their preferred mediums, whether that is specialized email sequences, direct phone outreach, or targeted social media interactions. This holistic presence builds familiarity and trust, significantly increasing response rates and establishing a strong foundation before the first sales call.",
+            "description3": "By delivering only high-intent leads, we empower your sales force to achieve higher win rates. Continuous optimization of our qualifying parameters ensures that as market conditions shift, your lead generation engine adapts automatically, maintaining a steady and reliable flow of revenue-driving opportunities."
+        }
+    },
+    "bpo-omnichannel-contact-center": {
+        "banner": {
+            "title": "Omnichannel Contact Center",
+            "subtitle": "Deliver a white-glove customer experience 24/7."
+        },
+        "section": {
+            "title": "Looking to elevate your customer support experience?",
+            "description1": "We provide a comprehensive omnichannel contact center solution that guarantees your customers always receive exceptional 24/7 support. By leveraging AI-driven routing and advanced cloud communications, we automatically direct every inquiry to the best-equipped agent, drastically reducing wait times and frustration for your clients.",
+            "description2": "Our experienced representatives are thoroughly trained to reflect your brand's unique voice and values across every touchpoint. Whether handling inbound technical support, proactive outbound sales calls, or resolving complex billing issues, every interaction is managed with deep empathy, profound expertise, and utmost professionalism.",
+            "description3": "This continuous, high-quality engagement fosters tremendous customer loyalty and increases lifetime value. Your business benefits from a seamless extension of your internal team that scales effortlessly with demand peaks, ensuring operational excellence and an outstanding brand reputation without the heavy overhead costs."
+        },
+        "serviceInfo": {
+            "title": "Seamless Customer Engagement",
+            "subtitle": "Always-On Support Infrastructure",
+            "description1": "Our contact center integrates directly with your existing CRM and internal systems to provide a unified history for every customer. This ensures that agents always have complete context before a conversation even begins, eliminating repetitive questions and dramatically expediting the issue resolution process.",
+            "description2": "We offer robust multi-channel capabilities including voice, live chat, email, and social media support. This empowers your customers to reach out exactly how they prefer, ensuring a frictionless support journey that caters to modern expectations and builds unwavering trust in your brand's accessibility.",
+            "description3": "Rigorous quality assurance protocols and continuous training programs guarantee that our agents consistently exceed industry benchmarks. Real-time performance dashboards provide you with total transparency into service levels, resolution times, and customer satisfaction scores, proving our commitment to tangible operational success."
+        }
+    },
+    "bpo-strategic-bpo-operations": {
+        "banner": {
+            "title": "Strategic BPO Operations",
+            "subtitle": "Optimize your back-office and administrative workflows."
+        },
+        "section": {
+            "title": "Ready to focus entirely on your core business?",
+            "description1": "Our strategic BPO services allow you to confidently offload complex, time-consuming back-office tasks to a team of dedicated experts. By managing your crucial yet repetitive administrative workflows, we immediately relieve internal resource constraints and give your leadership the freedom to focus entirely on high-level strategic growth.",
+            "description2": "We seamlessly integrate into your existing environment, taking over essential processes within finance, human resources, data entry, and supply chain logistics. Our workflows are meticulously designed to enforce compliance, eliminate costly human errors, and drastically increase daily productivity across your entire organizational structure.",
+            "description3": "The transition process is highly managed to ensure zero disruption to your daily operations. Once implemented, you benefit from a highly scalable, flexible workforce that flawlessly adapts to seasonal fluctuations and rapid growth periods, dramatically reducing your operational overhead and delivering a stronger bottom line."
+        },
+        "serviceInfo": {
+            "title": "Scalable Operational Efficiency",
+            "subtitle": "Advanced Workflow Optimization",
+            "description1": "We deploy advanced automation tools and sophisticated process management software into your workflows to eliminate bottlenecks. This technological advantage ensures that tasks are completed with unprecedented speed and accuracy, constantly driving down the cost per transaction and raising the standard for operational output.",
+            "description2": "Detailed process mapping and continuous improvement cycles guarantee that our operations stay agile and responsive. We regularly audit performance metrics to identify fresh opportunities for optimization, ensuring our BPO framework continuously evolves alongside your business strategies and rapidly changing market demands.",
+            "description3": "Security and compliance are foundational strictly embedded within our operations. We adhere to industry-leading data protection standards and rigorous access controls, providing you with complete peace of mind that your sensitive organizational information and proprietary data are safeguarded at all times."
+        }
+    },
+    "bpo-digital-marketing-content": {
+        "banner": {
+            "title": "Digital Marketing Strategy",
+            "subtitle": "Build brand authority with precise storytelling."
+        },
+        "section": {
+            "title": "Want to stand out in a crowded digital landscape?",
+            "description1": "Our digital marketing and content strategy services are designed to cut through industry noise and establish your brand as a definitive market authority. We craft highly targeted, data-backed narratives that genuinely resonate with B2B decision-makers, driving substantial engagement and long-term audience loyalty.",
+            "description2": "We expertly manage full-cycle digital campaigns across SEO, content marketing, and premium digital PR. By ensuring every piece of content supports your pipeline objectives, we transition brand awareness directly into measurable lead generation. No effort is wasted on superficial metrics; everything is strictly aligned with revenue.",
+            "description3": "Through continuous monitoring and agile adjustments, we guarantee your messaging adapts to market changes instantly. This dynamic strategy keeps your brand highly competitive, ensures sustained organic growth, and consistently delivers a high return on investment across every digital touchpoint and active marketing channel."
+        },
+        "serviceInfo": {
+            "title": "Narrative-Driven Growth",
+            "subtitle": "Targeted Campaign Execution",
+            "description1": "A custom content roadmap aligns precisely with your unique buyer journey, from initial problem awareness to the final purchase decision. This strategic framework ensures your audience constantly receives highly relevant, educational material that significantly reduces friction and accelerates their path toward conversion.",
+            "description2": "Our campaigns are fueled by deep competitive intelligence and semantic SEO analysis. By identifying valuable keyword opportunities and high-intent search queries, we consistently place your brand in front of active buyers exactly when they are researching solutions and seeking authoritative guidance.",
+            "description3": "Advanced attribution reporting provides crystal clear visibility into exactly which marketing assets actually generate sales. This enables precise reallocation of resources toward top-performing channels, maximizing efficiency and eliminating the guesswork that typically plagues traditional digital marketing efforts."
+        }
+    },
+    "bpo-cx-analytics-market-intelligence": {
+        "banner": {
+            "title": "CX Analytics & Intelligence",
+            "subtitle": "Decode your customer journey and maximize ROI."
+        },
+        "section": {
+            "title": "Need actionable insights to drive strategic decisions?",
+            "description1": "Our CX analytics and market intelligence services transform fragmented customer data into clear, decisive competitive advantages. We thoroughly decode the entire customer journey, pinpointing exactly where friction occurs and uncovering hidden opportunities to dramatically improve retention, satisfaction, and overall customer lifetime value.",
+            "description2": "By utilizing sophisticated attribution modeling, we accurately track every interaction across your sales and marketing ecosystem. This provides an unbiased view of which specific touchpoints directly contribute to revenue, allowing you to confidently redirect budget toward strategies that guarantee the highest possible return on investment.",
+            "description3": "Our intelligence reporting provides comprehensive competitor analysis and emerging market trend forecasting. Armed with this high-level strategic data, your leadership team can proactively adapt to industry changes, preempt competitor movements, and confidently execute long-term initiatives that solidify your position as an indomitable market leader."
+        },
+        "serviceInfo": {
+            "title": "Data-Driven Strategic Clarity",
+            "subtitle": "Comprehensive Market Decoding",
+            "description1": "We consolidate data from across your CRM, advanced web analytics, and direct customer feedback channels to create a single source of truth. This holistic approach eliminates troublesome data silos and ensures all internal teams make critical decisions strictly based on unified, highly accurate market realities.",
+            "description2": "Customizable performance dashboards deliver real-time insights tailored precisely to your specific operational goals. These intuitive visual reports translate incredibly complex datasets into highly accessible narratives, empowering managers at every level to instantly understand performance trends and take immediate, highly corrective action.",
+            "description3": "Sentiment analysis and advanced buyer profiling uncover the core motivations behind customer behaviors. By directly understanding exactly why prospects choose you over competitors, we help refine your broader value proposition, significantly improving close rates and driving sustainable, highly profitable business growth."
+        }
+    },
+    "mr-market-landscape-opportunity": {
+        "banner": {
+            "title": "Market Landscape & Opportunity Mapping",
+            "subtitle": "Identify white spaces and lucrative market segments with precision."
+        },
+        "section": {
+            "title": "Ready to master Market Landscape & Opportunity Mapping?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Market Landscape & Opportunity Mapping",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our market landscape & opportunity mapping process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "mr-competitive-intelligence": {
+        "banner": {
+            "title": "Competitive Intelligence & Benchmarking",
+            "subtitle": "Gain a definitive edge by understanding your rivals' moves."
+        },
+        "section": {
+            "title": "Ready to master Competitive Intelligence & Benchmarking?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Competitive Intelligence & Benchmarking",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our competitive intelligence & benchmarking process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "mr-buyer-persona-sentiment": {
+        "banner": {
+            "title": "Buyer Persona & Sentiment Discovery",
+            "subtitle": "Move beyond demographics to understand 'The Why' behind decisions."
+        },
+        "section": {
+            "title": "Ready to master Buyer Persona & Sentiment Discovery?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Buyer Persona & Sentiment Discovery",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our buyer persona & sentiment discovery process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "mr-product-validation-concept": {
+        "banner": {
+            "title": "Product Validation & Concept Testing",
+            "subtitle": "Reduce launch risk by testing ideas before you build."
+        },
+        "section": {
+            "title": "Ready to master Product Validation & Concept Testing?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Product Validation & Concept Testing",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our product validation & concept testing process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "mr-attribution-modeling-cx": {
+        "banner": {
+            "title": "Attribution Modeling & CX Analytics",
+            "subtitle": "Map the complete buyer journey to maximize marketing impact."
+        },
+        "section": {
+            "title": "Ready to master Attribution Modeling & CX Analytics?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Attribution Modeling & CX Analytics",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our attribution modeling & cx analytics process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "cm-full-funnel-content": {
+        "banner": {
+            "title": "Full-Funnel Content Creation",
+            "subtitle": "Content designed to build authority and drive organic growth."
+        },
+        "section": {
+            "title": "Ready to master Full-Funnel Content Creation?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Full-Funnel Content Creation",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our full-funnel content creation process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "cm-strategic-email-nurture": {
+        "banner": {
+            "title": "Strategic Email Nurture & Distribution",
+            "subtitle": "Ensure your thought leadership reaches the right inbox."
+        },
+        "section": {
+            "title": "Ready to master Strategic Email Nurture & Distribution?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Strategic Email Nurture & Distribution",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our strategic email nurture & distribution process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "cm-data-driven-seo": {
+        "banner": {
+            "title": "Data-Driven SEO & Roadmap Planning",
+            "subtitle": "Achieve long-term visibility with a precise content roadmap."
+        },
+        "section": {
+            "title": "Ready to master Data-Driven SEO & Roadmap Planning?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Data-Driven SEO & Roadmap Planning",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our data-driven seo & roadmap planning process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "cm-digital-pr": {
+        "banner": {
+            "title": "Digital PR & Programmatic Awareness",
+            "subtitle": "Elevate brand authority through targeted programmatic nurture."
+        },
+        "section": {
+            "title": "Ready to master Digital PR & Programmatic Awareness?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in Digital PR & Programmatic Awareness",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our digital pr & programmatic awareness process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    },
+    "cm-roi-focused-attribution": {
+        "banner": {
+            "title": "ROI-Focused Attribution & Performance",
+            "subtitle": "Decode success and fine-tune campaigns for maximum sales."
+        },
+        "section": {
+            "title": "Ready to master ROI-Focused Attribution & Performance?",
+            "description1": "Navigating modern B2B markets requires more than just basic industry knowledge; it demands deep, data-driven insights into market saturation, emerging trends, and untapped customer segments. We leverage our extensive database of millions of verified company profiles to map out the entire competitive landscape. This allows us to pinpoint exactly where demand is growing and where your competitors are failing to meet customer needs, giving you a clear roadmap for strategic entry and expansion.",
+            "description2": "Instead of relying on outdated industry reports or gut feelings, our approach provides real-time visibility into market dynamics. We analyze purchasing patterns, technology adoption rates, and economic indicators to identify high-potential niches that align perfectly with your unique value proposition. By understanding the structural shifts occurring within your target sectors, you can position your brand to capture market share before these opportunities become mainstream and heavily contested by industry incumbents.",
+            "description3": "The ultimate outcome is extreme confidence in your go-to-market strategy. By removing the guesswork from expansion planning, your leadership team can allocate resources, finalize product roadmaps, and launch targeted marketing campaigns with the assurance that they are addressing genuine, validated market needs. This data-backed foundation not only accelerates your growth trajectory but also significantly reduces the inherent risks associated with entering new or evolving business landscapes."
+        },
+        "serviceInfo": {
+            "title": "Expertise in ROI-Focused Attribution & Performance",
+            "subtitle": "Actionable Insights & Growth",
+            "description1": "Our roi-focused attribution & performance process begins by establishing a comprehensive baseline of your current market position relative to the broader industry landscape. We then ingest massive amounts of firmographic and behavioral data to identify specific sub-segments where buyers are actively seeking alternative solutions but are severely underserved by the current market offerings. This extreme level of detail ensures your strategic initiatives are highly focused.",
+            "description2": "We combine quantitative data analysis with qualitative insights drawn from key industry stakeholders and early adopters. This dual approach validates initial hypotheses and provides a nuanced understanding of the cultural and operational barriers that might impede market entry. By anticipating these challenges early, we help you craft go-to-market strategies that are not only innovative but practically executable within the realities of the targeted ecosystem.",
+            "description3": "Armed with this intelligence, your organization can forcefully pivot toward the most lucrative opportunities without hesitation. Whether you are launching a completely new product line or seeking to penetrate an adjacent industry vertical, our market landscape analysis provides the definitive blueprint required to secure early wins, build momentum, and establish long-term market dominance against established competitors."
+        }
+    }
+}
