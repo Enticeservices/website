@@ -4,6 +4,9 @@ import footerBg from '../assets/footer_bg.svg'
 import iso from '../assets/iso.png'
 import certificate from '../assets/certificate.png'
 import gdpr from '../assets/gdpr.png'
+import ico from '../assets/ico.png'
+import aicpa from '../assets/aicpa.png'
+
 
 export default function Footer() {
     return (
@@ -19,15 +22,20 @@ export default function Footer() {
                             <span className='2xl:text-4xl xl:text-3xl text-2xl block pt-10 font-semibold italic text-white title'>Entice Service</span>
                             <span className='2xl:text-lg lg:text-base md:text-sm text-sm block pt-4 text-white'>Delivering leads
                                 that sales welcome!</span>
-                            <div className='grid grid-cols-3 max-w-[200px] md:max-w-[300px] gap-5  pb-6 pt-5'>
+                            <div className='grid grid-cols-3 md:grid-cols-5 items-start max-w-[200px] md:max-w-[400px] gap-5  pb-6 pt-5'>
                                 <div className='grid '>
-                                    <img src={iso} alt="" />
+                                    <img className='h-20 w-auto object-contain object-start' src={iso} alt="" />
                                 </div>
                                 <div className='grid '>
-                                    <img src={certificate} alt="" />
+                                    <img className='h-20 w-auto object-contain object-start' src={certificate} alt="" />
                                 </div>
                                 <div className='grid '>
-                                    <img src={gdpr} alt="" />
+                                    <img className='h-20 w-auto object-contain object-start' src={gdpr} alt="" />
+                                </div>
+                                <div className='grid '>
+                                    <img className='h-20 w-auto object-contain object-start' src={aicpa} alt="" />
+                                </div><div className='grid '>
+                                    <img className='h-20 w-auto object-contain object-start' src={ico} alt="" />
                                 </div>
                             </div>
                         </div>

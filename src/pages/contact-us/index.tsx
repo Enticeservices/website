@@ -99,7 +99,7 @@ export default function ContactUs() {
                                 </div>
                                 <div className='grid gap-1 place-items-start pt-6'>
                                     <span className='text-sm md:text-sm'>Address:</span>
-                                    <span className='lg:text-base pr-6 md:text-base text-sm font-medium text-primary-dark'>411 LMS finswell,Viman Nagar 411014</span>
+                                    <span className='lg:text-base pr-6 md:text-base text-sm font-medium text-primary-dark block max-w-sm'>411 LMS Finswell Sakore Nagar Viman Nagar Pune Maharastra 411014 IN</span>
                                 </div>
                             </div>
                         </div>

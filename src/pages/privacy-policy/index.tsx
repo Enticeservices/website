@@ -1,4 +1,5 @@
 import { Helmet } from "react-helmet-async";
+import banner from "../../assets/privacy.png"
 
 export default function PrivacyPolicy() {
     return (
@@ -9,16 +10,20 @@ export default function PrivacyPolicy() {
             </Helmet>
             <div className="  ">
                 <div>
-                    <div className=" bg-linear-to-b from-primary-dark to-primary flex items-center justify-center h-[16rem] lg:h-[24rem] xl:h-[30rem] pt-10 ">
+                    <div className="  relative flex items-center justify-center h-[16rem] lg:h-[24rem] xl:h-[30rem] pt-10 ">
+                        <div className="absolute inset-0">
+                            <img className="h-full w-full object-cover object-center" src={banner} alt="" />
+                        </div>
                         <h1 className="text-3xl lg:text-4xl 2xl:text-6xl font-bold text-white mt-6 lg:mt-10">Privacy Policy</h1>
                     </div>
                     <div className=" bg-light py-6 md:py-16 lg:py-20 xl:py-24 2xl:py-28">
                         <div className="prose prose-lg max-w-4xl mx-auto  space-y-6">
 
                             <section>
+                                <span className="text-2xl md:text-3xl font-bold text-primary-dark">Privacy Policy</span>
                                 <h2 className="text-lg md:text-base xl:text-2xl font-semibold text-primary-dark mb-2">1. Introduction</h2>
                                 <p className="text-primary-dark/90 text-sm md:text-base md:pr-6 pr-4">
-                                    At Entice Services ("Entice Business Services"), your privacy is a priority. This Privacy Notice ("Notice") outlines our policies and practices concerning the collection and use of information that you submit to us or that we collect through various channels (such as our websites, written correspondence, including email, or through any of our global offices). When we use "Entice," "we," "us," or "our," it refers to our entire company, including our divisions, subsidiaries, and affiliates.
+                                    At Entice Services ("Entice Business Support Services Pvt.Ltd."), your privacy is a priority. This Privacy Notice ("Notice") outlines our policies and practices concerning the collection and use of information that you submit to us or that we collect through various channels (such as our websites, written correspondence, including email, or through any of our global offices). When we use "Entice," "we," "us," or "our," it refers to our entire company, including our divisions, subsidiaries, and affiliates.
                                 </p>
                                 <p className="text-primary-dark/90 text-sm md:text-base md:pr-6 pr-4">
                                     This Notice aims to inform you about the types of personal data we collect, the purposes for which we use the data, and how we handle it. We also aim to fulfill the transparency obligation under the EU General Data Protection Regulation 2016/679 ("GDPR") and national laws implementing GDPR.
@@ -208,8 +213,7 @@ export default function PrivacyPolicy() {
                                     For inquiries regarding our privacy practices or to exercise your rights, please contact us:
                                 </p>
                                 <ul className="text-primary-dark/90 text-sm md:text-base md:pr-6 pr-4 list-none pl-0">
-                                    <li><strong>Privacy Team:</strong> <a href="mailto:DPO@enticeservices.com" className="text-primary underline">DPO@enticeservices.com</a></li>
-                                    <li><strong>Telephone:</strong> <a href="tel:+12132210150" className="text-primary underline">+1 213-221-0150</a></li>
+                                    <li><strong>Privacy Team:</strong> <a href="mailto:DPO@enticeservices.com" className="text-primary underline">dpo@enticeservices.com</a></li>
                                 </ul>
                             </section>
                         </div>

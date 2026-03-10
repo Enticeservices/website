@@ -1,5 +1,5 @@
 import PrimaryButton from '../../components/primary-btn'
-import bgVideo from '../../assets/banner_video.mp4'
+import bgVideo from '../../assets/updated_banner.mov'
 import { useNavigate } from "react-router-dom"
 
 export default function Banner2() {
@@ -19,13 +19,13 @@ export default function Banner2() {
           loop
           playsInline
         />
-        <div className=' absolute inset-0 bg-linear-to-b from-primary-dark/30 to-primary-dark'></div>
+        {/* <div className=' absolute inset-0 bg-linear-to-b from-black/80 to-black/80'></div> */}
       </div>
-      <h1 className='relative title px-7 pt-24 md:pt-12 lg:pt-0 text-3xl md:text-5xl xl:text-6xl font-semibold text-transparent max-w-4xl bg-clip-text bg-linear-to-b from-white via-light  to-white leading-tight text-center'>
+      <h1 className='relative font-bold title px-7 pt-24 md:pt-12 lg:pt-0 text-3xl md:text-5xl xl:text-6xl text-primary-dark max-w-4xl bg-clip-text bg-linear-to-b from-white via-light  to-white leading-tight text-center'>
         Delivering Leads that  <br className='md:block hidden' /> Sales Welcome
       </h1>
 
-      <span className=' relative text-lg md:text-xl lg:text-xl px-8 font-normal text-white leading-normal block max-w-2xl text-center '>
+      <span className=' relative text-lg md:text-xl lg:text-xl px-8 font-normal text-primary-dark leading-normal block max-w-2xl text-center '>
         Comprehensive Demand Generation with ROI in Mind</span>
       <div className='pt-5 relative'>
         <div className='md:block hidden'>

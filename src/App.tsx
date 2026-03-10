@@ -28,6 +28,7 @@ function App() {
 
   const isServicesPage = location.pathname === "/services"
   const isAboutPage = location.pathname === "/about"
+  const isHome = location.pathname === "/"
 
 
 
@@ -35,7 +36,7 @@ function App() {
     <div className="min-h-screen flex flex-col">
       <ScrollToTop />
 
-      <Header darkmode={isServicesPage || isAboutPage} />
+      <Header darkmode={isServicesPage || isAboutPage || isHome} />
 
       <main className="flex-grow">
         <AnimatePresence mode="wait">
